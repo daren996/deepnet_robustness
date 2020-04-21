@@ -1,0 +1,9 @@
+
+.idea/
+__pycache__/
+venv/
+sample_data/walmart_amazon_exp_data
+model_state/
+.vector_cache
+
+.DS_Store
