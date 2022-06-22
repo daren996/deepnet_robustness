@@ -7,7 +7,7 @@ fasttextmirror==0.8.22
 idna==2.8
 joblib==0.14.1
 nltk==3.4.5
-numpy==1.18.1
+numpy==1.22.0
 pandas==1.0.1
 pybind11==2.4.3
 PyPrind==2.11.2
